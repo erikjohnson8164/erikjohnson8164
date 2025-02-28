@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @erikjohnson8164
-- 👀 I’m interested in learning more about the world through computational linguistics and collective collaboration
-- 🌱 I’m currently learning Computer Science at University of Minnesota - Duluth
-- 💞️ I’m looking to collaborate on anything NLP! Just starting to engage in this community!
-- 📫 How to reach me @erikjohnson8164 (twitter)
+- 🌱 I'm currently working as Software Developer using mainly .NET/C#
+- 📫 How to reach me @erikj3102 (X profile)
 
 <!---
 erikjohnson8164/erikjohnson8164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
